@@ -45,6 +45,8 @@ class ViewController: UIViewController {
                 self.label.text = "Cat"
             })
         }
+        
+        // code if using a button instead of image view
 //        if cat.imageView?.image == UIImage(named: "cat") {
 //            UIView.transition(with: cat, duration: 1.0, options: [.curveEaseInOut, .transitionFlipFromRight], animations: {
 //                self.cat.setImage(UIImage(named: "dog"), for: .normal)
